@@ -1388,7 +1388,7 @@
           "value": "filename"
         },
         "datasource": {
-          "type": "loki""uid": "${datasource}"
+          "type": "loki"
         },
         "definition": "label_names()",
         "includeAll": false,
