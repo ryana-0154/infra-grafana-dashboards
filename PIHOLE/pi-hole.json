@@ -25,7 +25,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 1,
-  "id": 11,
+  "id": 8,
   "links": [
     {
       "asDropdown": false,
@@ -2161,7 +2161,7 @@
             "steps": [
               {
                 "color": "#d44a3a",
-                "value": 0
+                "value": null
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2202,7 +2202,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2245,7 +2245,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2282,7 +2282,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2323,7 +2323,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2360,7 +2360,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2402,7 +2402,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2437,7 +2437,7 @@
         "textMode": "value",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2481,7 +2481,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2518,7 +2518,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2561,7 +2561,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2598,7 +2598,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2625,13 +2625,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -2640,7 +2638,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -2648,7 +2645,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -2664,7 +2660,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2749,7 +2745,7 @@
             "steps": [
               {
                 "color": "light-red",
-                "value": 0
+                "value": null
               },
               {
                 "color": "#EAB839",
@@ -2787,7 +2783,7 @@
         "showThresholdMarkers": false,
         "sizing": "auto"
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -2813,13 +2809,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -2828,7 +2822,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -2836,7 +2829,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -2852,7 +2844,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -2929,13 +2921,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -2944,7 +2934,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -2952,7 +2941,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -2968,7 +2956,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -3042,13 +3030,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -3057,7 +3043,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -3065,7 +3050,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -3081,7 +3065,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -3159,9 +3143,6 @@
             "cellOptions": {
               "type": "auto"
             },
-            "footer": {
-              "reducers": []
-            },
             "inspect": false
           },
           "mappings": [],
@@ -3170,7 +3151,7 @@
             "steps": [
               {
                 "color": "text",
-                "value": 0
+                "value": null
               }
             ]
           }
@@ -3182,10 +3163,6 @@
               "options": "Time"
             },
             "properties": [
-              {
-                "id": "custom.hideFrom.viz",
-                "value": true
-              },
               {
                 "id": "displayName"
               }
@@ -3226,6 +3203,14 @@
       "id": 125,
       "options": {
         "cellHeight": "sm",
+        "footer": {
+          "countRows": false,
+          "fields": "",
+          "reducer": [
+            "sum"
+          ],
+          "show": false
+        },
         "showHeader": true,
         "sortBy": [
           {
@@ -3234,7 +3219,7 @@
           }
         ]
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -3243,11 +3228,11 @@
           "editorMode": "code",
           "exemplar": false,
           "expr": "pihole_top_sources{}",
-          "format": "time_series",
+          "format": "table",
           "instant": true,
           "interval": "",
           "intervalFactor": 1,
-          "legendFormat": "{{source}}",
+          "legendFormat": "source",
           "range": false,
           "refId": "A"
         }
@@ -3255,9 +3240,18 @@
       "title": "Top clients",
       "transformations": [
         {
-          "id": "seriesToRows",
+          "id": "organize",
           "options": {
-            "reducers": []
+            "excludeByName": {
+              "Time": true,
+              "__name__": true,
+              "hostname": true,
+              "instance": true,
+              "job": true,
+              "source_name": true
+            },
+            "indexByName": {},
+            "renameByName": {}
           }
         }
       ],
@@ -3277,9 +3271,6 @@
             "cellOptions": {
               "type": "auto"
             },
-            "footer": {
-              "reducers": []
-            },
             "inspect": false
           },
           "mappings": [],
@@ -3288,7 +3279,7 @@
             "steps": [
               {
                 "color": "text",
-                "value": 0
+                "value": null
               }
             ]
           }
@@ -3300,10 +3291,6 @@
               "options": "Time"
             },
             "properties": [
-              {
-                "id": "custom.hideFrom.viz",
-                "value": true
-              },
               {
                 "id": "displayName"
               }
@@ -3344,6 +3331,14 @@
       "id": 126,
       "options": {
         "cellHeight": "sm",
+        "footer": {
+          "countRows": false,
+          "fields": "",
+          "reducer": [
+            "sum"
+          ],
+          "show": false
+        },
         "showHeader": true,
         "sortBy": [
           {
@@ -3352,7 +3347,7 @@
           }
         ]
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -3361,7 +3356,7 @@
           "editorMode": "code",
           "exemplar": false,
           "expr": "pihole_top_queries{}",
-          "format": "time_series",
+          "format": "table",
           "instant": true,
           "interval": "",
           "intervalFactor": 1,
@@ -3376,6 +3371,23 @@
           "id": "seriesToRows",
           "options": {
             "reducers": []
+          }
+        },
+        {
+          "id": "organize",
+          "options": {
+            "excludeByName": {
+              "Time": true,
+              "__name__": true,
+              "domain": false,
+              "hostname": true,
+              "instance": true,
+              "job": true
+            },
+            "indexByName": {},
+            "renameByName": {
+              "domain": ""
+            }
           }
         }
       ],
@@ -3396,9 +3408,6 @@
               "type": "auto"
             },
             "filterable": false,
-            "footer": {
-              "reducers": []
-            },
             "inspect": false
           },
           "mappings": [],
@@ -3407,7 +3416,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -3418,18 +3427,6 @@
           "unit": "none"
         },
         "overrides": [
-          {
-            "matcher": {
-              "id": "byName",
-              "options": "Time"
-            },
-            "properties": [
-              {
-                "id": "custom.hideFrom.viz",
-                "value": true
-              }
-            ]
-          },
           {
             "matcher": {
               "id": "byName",
@@ -3470,6 +3467,14 @@
       "options": {
         "cellHeight": "sm",
         "enablePagination": false,
+        "footer": {
+          "countRows": false,
+          "fields": "",
+          "reducer": [
+            "sum"
+          ],
+          "show": false
+        },
         "showHeader": true,
         "sortBy": [
           {
@@ -3478,7 +3483,7 @@
           }
         ]
       },
-      "pluginVersion": "12.2.0",
+      "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {
@@ -3487,7 +3492,7 @@
           "editorMode": "code",
           "exemplar": false,
           "expr": "pihole_top_ads",
-          "format": "time_series",
+          "format": "table",
           "instant": true,
           "interval": "",
           "intervalFactor": 1,
@@ -3502,6 +3507,21 @@
           "id": "seriesToRows",
           "options": {
             "reducers": []
+          }
+        },
+        {
+          "id": "organize",
+          "options": {
+            "excludeByName": {
+              "Time": true,
+              "__name__": true,
+              "domain": false,
+              "hostname": true,
+              "instance": true,
+              "job": true
+            },
+            "indexByName": {},
+            "renameByName": {}
           }
         }
       ],
@@ -3742,13 +3762,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -3757,7 +3775,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -3765,7 +3782,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -3781,7 +3797,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -3920,13 +3936,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -3935,7 +3949,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -3943,7 +3956,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -3959,7 +3971,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -4029,13 +4041,11 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
             "barAlignment": 0,
-            "barWidthFactor": 0.6,
             "drawStyle": "line",
             "fillOpacity": 20,
             "gradientMode": "opacity",
@@ -4044,7 +4054,6 @@
               "tooltip": false,
               "viz": false
             },
-            "insertNulls": false,
             "lineInterpolation": "linear",
             "lineWidth": 1,
             "pointSize": 5,
@@ -4052,7 +4061,6 @@
               "type": "linear"
             },
             "showPoints": "never",
-            "showValues": false,
             "spanNulls": false,
             "stacking": {
               "group": "A",
@@ -4068,7 +4076,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -4128,7 +4136,6 @@
             "mode": "palette-classic"
           },
           "custom": {
-            "axisBorderShow": false,
             "axisCenteredZero": false,
             "axisColorMode": "text",
             "axisLabel": "",
@@ -4155,7 +4162,7 @@
             "steps": [
               {
                 "color": "green",
-                "value": 0
+                "value": null
               },
               {
                 "color": "red",
@@ -4250,14 +4257,15 @@
       "type": "barchart"
     }
   ],
-  "preload": false,
   "refresh": "1m",
-  "schemaVersion": 42,
+  "schemaVersion": 38,
+  "style": "dark",
   "tags": [],
   "templating": {
     "list": [
       {
         "current": {
+          "selected": false,
           "text": "node",
           "value": "node"
         },
@@ -4268,6 +4276,7 @@
         "hide": 2,
         "includeAll": false,
         "label": "Job",
+        "multi": false,
         "name": "job",
         "options": [],
         "query": {
@@ -4276,10 +4285,13 @@
         },
         "refresh": 1,
         "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
         "type": "query"
       },
       {
         "current": {
+          "selected": false,
           "text": "10.10.10.1:9100",
           "value": "10.10.10.1:9100"
         },
@@ -4291,6 +4303,7 @@
         "hide": 2,
         "includeAll": false,
         "label": "Host",
+        "multi": false,
         "name": "node",
         "options": [],
         "query": {
@@ -4299,6 +4312,8 @@
         },
         "refresh": 1,
         "regex": "",
+        "skipUrlSync": false,
+        "sort": 0,
         "type": "query"
       }
     ]
@@ -4313,5 +4328,6 @@
   "timezone": "",
   "title": "PI-Hole",
   "uid": "MIBVglomg",
-  "version": 8
+  "version": 2,
+  "weekStart": ""
 }
