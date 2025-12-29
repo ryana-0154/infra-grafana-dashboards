@@ -533,6 +533,7 @@
           "editorMode": "code",
           "expr": "sum by (username) (count_over_time({$label_name=~\"$label_value\", job=~\"$job\"} |=\"sshd[\" |=\": session opened for\" | pattern `<_> session opened for user <username>(` | username !~\".* by \" | __error__=\"\" [$__interval]))\r\n\r\n",
           "queryType": "range",
+          "legendFormat": "{{username}}",
           "refId": "A"
         },
         {
@@ -543,6 +544,7 @@
           "editorMode": "code",
           "expr": "sum by (username) (count_over_time({$label_name=~\"$label_value\", job=~\"$job\"} |=\"sshd[\" |=\": session opened for\" | pattern `<_> session opened for user <username> <_>` | username !~\".*(uid=.*)\" | __error__=\"\" [$__interval]))",
           "queryType": "range",
+          "legendFormat": "{{username}}",
           "refId": "B"
         }
       ],
